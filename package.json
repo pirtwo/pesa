@@ -1,0 +1,19 @@
+{
+  "name": "pesa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Ahmad-Fz",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "csv-writer": "^1.2.0",
+    "nodeplotlib": "^0.6.2"
+  }
+}
